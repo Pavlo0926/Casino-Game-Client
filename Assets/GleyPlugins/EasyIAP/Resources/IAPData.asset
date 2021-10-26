@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75d34cf01d34acc458da5ffdab5e6238, type: 3}
+  m_Name: IAPData
+  m_EditorClassIdentifier: 
+  debug: 0
+  useReceiptValidation: 1
+  usePlaymaker: 0
+  useBolt: 0
+  useGameFlow: 0
+  useForGooglePlay: 0
+  useForAmazon: 0
+  useForIos: 1
+  shopProducts:
+  - productName: ExtraCredits200K
+    productType: 0
+    idGooglePlay: 
+    idAmazon: 
+    idIOS: com.playfulint.goldenFrog.extra_credits_200k
+    value: 200000
+    localizedPriceString: '-'
+    price: 0
+    isoCurrencyCode: 
+  - productName: ExtraCredits2M
+    productType: 0
+    idGooglePlay: 
+    idAmazon: 
+    idIOS: com.playfulint.goldenFrog.extra_credits_2M
+    value: 2000000
+    localizedPriceString: '-'
+    price: 0
+    isoCurrencyCode: 
+  - productName: ExtraCredits6M
+    productType: 0
+    idGooglePlay: 
+    idAmazon: 
+    idIOS: com.playfulint.goldenFrog.extra_credits_6M
+    value: 6000000
+    localizedPriceString: '-'
+    price: 0
+    isoCurrencyCode: 
+  - productName: ExtraCredits20M
+    productType: 0
+    idGooglePlay: 
+    idAmazon: 
+    idIOS: com.playfulint.goldenFrog.extra_credits_20M
+    value: 20000000
+    localizedPriceString: '-'
+    price: 0
+    isoCurrencyCode: 
+  - productName: ExtraCredits60M
+    productType: 0
+    idGooglePlay: 
+    idAmazon: 
+    idIOS: com.playfulint.goldenFrog.extra_credits_60M
+    value: 60000000
+    localizedPriceString: '-'
+    price: 0
+    isoCurrencyCode: 
+  - productName: ExtraCredits200M
+    productType: 0
+    idGooglePlay: 
+    idAmazon: 
+    idIOS: com.playfulint.goldenFrog.extra_credits_200M
+    value: 200000000
+    localizedPriceString: '-'
+    price: 0
+    isoCurrencyCode: 

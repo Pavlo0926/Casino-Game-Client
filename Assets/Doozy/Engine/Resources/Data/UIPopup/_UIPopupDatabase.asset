@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5c04155d43740f46a3223a7eb386e0c, type: 3}
+  m_Name: _UIPopupDatabase
+  m_EditorClassIdentifier: 
+  PopupNames:
+  - AchievementPopup
+  - AllYourBase
+  - Popup1
+  - Popup2
+  - Popup3
+  - GameHistory
+  - RoadmapPopup
+  - GamePlayMenuPopup
+  - GameHistoryDetailsPopup
+  - Alertbox
+  - ProfilePopup
+  - MenuPopup
+  - ChipStore
+  - List
+  - SinglePlayer
+  - Notification
+  - SettingsPopup
+  Popups:
+  - {fileID: 11400000, guid: 3729bce727b92ce43a76a19ee485545b, type: 2}
+  - {fileID: 11400000, guid: 09b9c5f1cfdbaca4f83d999c802a54ed, type: 2}
+  - {fileID: 11400000, guid: ccc96a3d38744bf4ca347433859f5089, type: 2}
+  - {fileID: 11400000, guid: b484f5bd08aeaf14598bcc73d9172d5f, type: 2}
+  - {fileID: 11400000, guid: 6ddd09fe508023541baf44c4ead21ad9, type: 2}
+  - {fileID: 11400000, guid: 16fcb1594573b894a8c2c860e13d8887, type: 2}
+  - {fileID: 11400000, guid: a2a2de90a06e0b64fac7b42089ea963c, type: 2}
+  - {fileID: 11400000, guid: 89a03728073ec4fb080d6b86103d15db, type: 2}
+  - {fileID: 11400000, guid: ba3821efab2a845479824af7b1fc983d, type: 2}
+  - {fileID: 11400000, guid: 52dcea2f3f50c4d34b63824caa96ddf5, type: 2}
+  - {fileID: 11400000, guid: e78e9b84ea68d4457bb9fe4f94733bbe, type: 2}
+  - {fileID: 11400000, guid: 452367518fdd54845a8a1b8c1c09445a, type: 2}
+  - {fileID: 11400000, guid: 271abc25c4f8b4205950a6596abcd565, type: 2}
+  - {fileID: 11400000, guid: 2a6d4335e0af04bb6a19a519dec45399, type: 2}
+  - {fileID: 11400000, guid: ba7686e5e5bf74c5fa4abbee266b6b98, type: 2}
+  - {fileID: 11400000, guid: a54eda6e1d9534433b1b6004a281f791, type: 2}
+  - {fileID: 11400000, guid: b1d1e9aa32db34d11baccb4883bebcdc, type: 2}

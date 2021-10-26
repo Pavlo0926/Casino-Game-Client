@@ -1,0 +1,38 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Plugins/Android/com.facebook.android.facebook-login-5.13.0.aar.meta
+guid: 262c00b0c159046358cc5310030dd3c0
+=======
+guid: 1e0a08ff6c2d2419a8fa76a7ed2f4bfc
+>>>>>>> 28e691078bb24578a8aa22fcd07d14f2570cb928:Assets/Plugins/Android/com.facebook.android.facebook-common-5.13.0.aar.meta
+labels:
+- gpsr
+PluginImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  iconMap: {}
+  executionOrder: {}
+  defineConstraints: []
+  isPreloaded: 0
+  isOverridable: 0
+  isExplicitlyReferenced: 0
+  validateReferences: 1
+  platformData:
+  - first:
+      Android: Android
+    second:
+      enabled: 1
+      settings: {}
+  - first:
+      Any: 
+    second:
+      enabled: 0
+      settings: {}
+  - first:
+      Editor: Editor
+    second:
+      enabled: 0
+      settings:
+        DefaultValueInitialized: true
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
